@@ -1,0 +1,440 @@
+{
+  "source_landing": {
+    "dims": [
+      "sessionSource",
+      "sessionMedium",
+      "landingPage"
+    ],
+    "mets": [
+      "sessions",
+      "totalUsers",
+      "engagementRate",
+      "conversions"
+    ],
+    "rows": [
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en",
+        "sessions": "245",
+        "totalUsers": "181",
+        "engagementRate": "0.93877551020408168",
+        "conversions": "112"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "(not set)",
+        "sessions": "71",
+        "totalUsers": "40",
+        "engagementRate": "0.070422535211267609",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex/point-calculator",
+        "sessions": "36",
+        "totalUsers": "15",
+        "engagementRate": "0.33333333333333331",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/mypage/payback/BINANCE",
+        "sessions": "30",
+        "totalUsers": "1",
+        "engagementRate": "0.2",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/mypage",
+        "sessions": "24",
+        "totalUsers": "4",
+        "engagementRate": "0.625",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/funding",
+        "sessions": "21",
+        "totalUsers": "9",
+        "engagementRate": "0.42857142857142855",
+        "conversions": "2"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchanges",
+        "sessions": "19",
+        "totalUsers": "11",
+        "engagementRate": "0.84210526315789469",
+        "conversions": "2"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/binance-trading-event-modal",
+        "sessions": "10",
+        "totalUsers": "5",
+        "engagementRate": "0.9",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex",
+        "sessions": "10",
+        "totalUsers": "8",
+        "engagementRate": "0.7",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "",
+        "sessions": "7",
+        "totalUsers": "4",
+        "engagementRate": "0",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/signin-request",
+        "sessions": "5",
+        "totalUsers": "3",
+        "engagementRate": "0.4",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "naver",
+        "sessionMedium": "organic",
+        "landingPage": "/en",
+        "sessions": "5",
+        "totalUsers": "5",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/insight",
+        "sessions": "3",
+        "totalUsers": "2",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchanges/edgex",
+        "sessions": "2",
+        "totalUsers": "1",
+        "engagementRate": "0.5",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchanges/grvt",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/guide",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex-day/raffle",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "0",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "naver",
+        "sessionMedium": "organic",
+        "landingPage": "(not set)",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "0.5",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "naver",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "naver",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex/point-calculator",
+        "sessions": "2",
+        "totalUsers": "2",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/backpack-trading-competition",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "0",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/company",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchange-selection",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "2"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchanges/binance",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/exchanges/variational",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/guide/BINANCE",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "0",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/guide/kyc/grvt",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "0",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/mypage/payback/GRVT",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/onboarding/exchange-selection",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      },
+      {
+        "sessionSource": "google",
+        "sessionMedium": "organic",
+        "landingPage": "/en/perpdex-day",
+        "sessions": "1",
+        "totalUsers": "1",
+        "engagementRate": "1",
+        "conversions": "0"
+      }
+    ]
+  },
+  "landing_perf": {
+    "dims": [
+      "landingPage"
+    ],
+    "mets": [
+      "sessions",
+      "bounceRate",
+      "averageSessionDuration",
+      "conversions"
+    ],
+    "rows": [
+      {
+        "landingPage": "/en",
+        "sessions": "250",
+        "bounceRate": "0.06",
+        "averageSessionDuration": "380.30354269599997",
+        "conversions": "112"
+      },
+      {
+        "landingPage": "(not set)",
+        "sessions": "73",
+        "bounceRate": "0.9178082191780822",
+        "averageSessionDuration": "41.188152383561643",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/perpdex/point-calculator",
+        "sessions": "38",
+        "bounceRate": "0.631578947368421",
+        "averageSessionDuration": "76.400549315789476",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/mypage/payback/BINANCE",
+        "sessions": "30",
+        "bounceRate": "0.8",
+        "averageSessionDuration": "48.2990516",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/mypage",
+        "sessions": "24",
+        "bounceRate": "0.375",
+        "averageSessionDuration": "392.213388875",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/funding",
+        "sessions": "21",
+        "bounceRate": "0.5714285714285714",
+        "averageSessionDuration": "188.06578642857144",
+        "conversions": "2"
+      },
+      {
+        "landingPage": "/en/exchanges",
+        "sessions": "19",
+        "bounceRate": "0.15789473684210525",
+        "averageSessionDuration": "712.55950773684208",
+        "conversions": "2"
+      },
+      {
+        "landingPage": "/en/perpdex",
+        "sessions": "12",
+        "bounceRate": "0.25",
+        "averageSessionDuration": "174.95784083333334",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/binance-trading-event-modal",
+        "sessions": "10",
+        "bounceRate": "0.1",
+        "averageSessionDuration": "496.1534248",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "",
+        "sessions": "7",
+        "bounceRate": "1",
+        "averageSessionDuration": "358.33375828571428",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/signin-request",
+        "sessions": "5",
+        "bounceRate": "0.6",
+        "averageSessionDuration": "452.0738732",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/insight",
+        "sessions": "3",
+        "bounceRate": "0",
+        "averageSessionDuration": "305.13383733333336",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/exchanges/edgex",
+        "sessions": "2",
+        "bounceRate": "0.5",
+        "averageSessionDuration": "32.234567",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/exchanges/grvt",
+        "sessions": "2",
+        "bounceRate": "0",
+        "averageSessionDuration": "44.750949",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/guide",
+        "sessions": "2",
+        "bounceRate": "0",
+        "averageSessionDuration": "391.9928935",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/perpdex-day/raffle",
+        "sessions": "2",
+        "bounceRate": "1",
+        "averageSessionDuration": "29.1053535",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/backpack-trading-competition",
+        "sessions": "1",
+        "bounceRate": "1",
+        "averageSessionDuration": "0",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/company",
+        "sessions": "1",
+        "bounceRate": "0",
+        "averageSessionDuration": "164.769843",
+        "conversions": "0"
+      },
+      {
+        "landingPage": "/en/exchange-selection",
+        "sessions": "1",
+        "bounceRate": "0",
+        "averageSessionDuration": "9356.7563220000011",
+        "conversions": "2"
+      },
+      {
+        "landingPage": "/en/exchanges/binance",
+        "sessions": "1",
+        "bounceRate": "0",
+        "averageSessionDuration": "880.763894",
+        "conversions": "0"
+      }
+    ]
+  }
+}

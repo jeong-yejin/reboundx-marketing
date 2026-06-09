@@ -1,0 +1,146 @@
+[
+  {
+    "country": "Indonesia",
+    "source": "(direct)",
+    "medium": "(none)",
+    "totalUsers": 144,
+    "sessions": 235,
+    "engagementRate": 0.3191489361702128,
+    "conversions": 59.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "(not set)",
+    "medium": "(not set)",
+    "totalUsers": 115,
+    "sessions": 164,
+    "engagementRate": 0.0,
+    "conversions": 66.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "t.co",
+    "medium": "referral",
+    "totalUsers": 8,
+    "sessions": 36,
+    "engagementRate": 0.7222222222222222,
+    "conversions": 8.0
+  },
+  {
+    "country": "Vietnam",
+    "source": "google",
+    "medium": "organic",
+    "totalUsers": 6,
+    "sessions": 28,
+    "engagementRate": 0.7857142857142857,
+    "conversions": 3.0
+  },
+  {
+    "country": "Vietnam",
+    "source": "t.co",
+    "medium": "referral",
+    "totalUsers": 10,
+    "sessions": 14,
+    "engagementRate": 0.5714285714285714,
+    "conversions": 0.0
+  },
+  {
+    "country": "Vietnam",
+    "source": "(direct)",
+    "medium": "(none)",
+    "totalUsers": 7,
+    "sessions": 14,
+    "engagementRate": 0.7142857142857143,
+    "conversions": 2.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "tg_reboundx",
+    "medium": "massenger",
+    "totalUsers": 3,
+    "sessions": 8,
+    "engagementRate": 0.375,
+    "conversions": 0.0
+  },
+  {
+    "country": "Philippines",
+    "source": "google",
+    "medium": "organic",
+    "totalUsers": 1,
+    "sessions": 6,
+    "engagementRate": 0.16666666666666666,
+    "conversions": 0.0
+  },
+  {
+    "country": "Vietnam",
+    "source": "t.co",
+    "medium": "social",
+    "totalUsers": 1,
+    "sessions": 3,
+    "engagementRate": 0.3333333333333333,
+    "conversions": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "x",
+    "medium": "social",
+    "totalUsers": 2,
+    "sessions": 2,
+    "engagementRate": 0.5,
+    "conversions": 1.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "google",
+    "medium": "organic",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 0.0,
+    "conversions": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "l.facebook.com",
+    "medium": "referral",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 0.0,
+    "conversions": 0.0
+  },
+  {
+    "country": "Indonesia",
+    "source": "m.facebook.com",
+    "medium": "referral",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 0.0,
+    "conversions": 0.0
+  },
+  {
+    "country": "Philippines",
+    "source": "(direct)",
+    "medium": "(none)",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 0.0,
+    "conversions": 0.0
+  },
+  {
+    "country": "Philippines",
+    "source": "t.co",
+    "medium": "referral",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 1.0,
+    "conversions": 0.0
+  },
+  {
+    "country": "Thailand",
+    "source": "google",
+    "medium": "organic",
+    "totalUsers": 1,
+    "sessions": 1,
+    "engagementRate": 1.0,
+    "conversions": 0.0
+  }
+]

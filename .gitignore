@@ -1,0 +1,10 @@
+.env
+.env.*
+token.json
+client_secret*.json
+*.pem
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
