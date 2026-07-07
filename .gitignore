@@ -8,3 +8,6 @@ __pycache__/
 *.pyc
 .venv/
 node_modules/
+
+# brand assets must never be pushed (2026-07-07)
+brands/
